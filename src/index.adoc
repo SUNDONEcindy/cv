@@ -30,7 +30,7 @@ Location:: icon:map-marker[] France image:fr.png[width=15]
 
 ## icon:industry[] Professional Experience
 
-### Staff SRE for the Jenkins Project at CloudBees
+### Staff Site Reliability Engineer (SRE) for the Jenkins Project at CloudBees
 
 icon:calendar[] From: `12/2020` until `today`
 
@@ -48,7 +48,7 @@ icon:users[] link:https://cloudbees.com[CloudBees,window="_blank"] / link:https:
 
 icon:calendar[] From: `01/2020` until `11/2020`
 
-icon:users[] link:https://openio.io[OpenIO,window="_blank"] / link:https://www.ovh.com[OVHcloud,window="_blank"] (link:https://blocksandfiles.com/2020/07/24/ovhcloud-acquires-openio-to-build-best-object-storage-service/[OVHcloud acquired OpenIO in July 2020])- Remote
+icon:users[] link:https://github.com/open-io[OpenIO,window="_blank"] / link:https://www.ovh.com[OVHcloud,window="_blank"] (link:https://blocksandfiles.com/2020/07/24/ovhcloud-acquires-openio-to-build-best-object-storage-service/[OVHcloud acquired OpenIO in July 2020])- Remote
 
 [NOTE]
 .Description
@@ -85,7 +85,7 @@ platform validations
 * Participating on other Containous products
 ** User experience, documentation, website and packaging for link:https://containo.us/traefikee/[Traefik Enterprise Edition]
 ** PreSales and Solution Architect for customers during early phases of link:https://containo.us/traefikee/[Traefik Enterprise Edition]
-** User experience, documentation, website and packaging for https://mae.sh[Maesh Service Mesh]
+** User experience, documentation, website and packaging for https://traefik.io/traefik-mesh/[Maesh Service Mesh]
 ====
 
 ### Training Infrastructure Consultance as Freelancer
@@ -196,6 +196,39 @@ a new product based on Oracle/ESRI and written in Java.
 
 ### Course: Introduction to Continuous Integration and Deployment
 
+* icon:calendar[] `12/2024` (Promotion M2 IW - 2024/2025)
+** link:https://dduportal.github.io/esgi-courses/2024-S1-M2-IW[icon:slideshare[] Slides,window="_blank"]
+
+* icon:calendar[] `01/2024` (Promotion M1 ALT - 2023/2024)
+** link:https://dduportal.github.io/esgi-courses/2023-S1-M1-AL-ALT[icon:slideshare[] Slides,window="_blank"]
+
+* icon:calendar[] `09/2023` (Promotion M2 IW - 2023/2024)
+** link:https://dduportal.github.io/esgi-courses/2023-S1-M2-IW[icon:slideshare[] Slides,window="_blank"]
+
+* icon:calendar[] `02/2023` (Promotion M1 ALT - 2022/2023)
+** link:https://dduportal.github.io/esgi-courses/2022-2023[icon:slideshare[] Slides,window="_blank"]
+
+* icon:users[] link:https://www.esgi.fr/[École Supérieure de Génie Informatique (E.S.G.I.) - Lyon,window="_blank"]
+
+[NOTE]
+.Description
+====
+A 3-days introduction to Continuous Integration and Delivery (C.I/C.D.) practices to IT Master-1 and Master-2 students.
+Uses GitHub Actions, Docker and NodeJS for included workshop.
+====
+
+
+### Course: Introduction to Continuous Integration and Deployment
+
+* icon:calendar[] `03/2023` (Promotion 2022/2023)
+** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
+
+* icon:calendar[] `12/2021` (Promotion 2021/2022)
+** link:https://cicd-lectures.github.io/slides/2021/#/[icon:slideshare[] Slides,window="_blank"]
+
+* icon:calendar[] `12/2020` (Promotion 2020/2021)
+** link:https://cicd-lectures.github.io/slides/2020/#/[icon:slideshare[] Slides,window="_blank"]
+
 * icon:calendar[] `01/2019` (Promotion 2018/2019)
 ** link:https://dduportal.github.io/ensg-ci-cd/2018-2019/#/introduction_au_ci_cd[icon:slideshare[] Slides,window="_blank"]
 
@@ -273,7 +306,6 @@ Practical sessions around basic fault tolerance patterns.
 * image:fr.png[width=15] `Le seigneur des conteneurs : un atelier de migration vers Kubernetes et Traefik`
 
 * icon:slideshare[] link:https://containous.github.io/slides/devoxx-fr-2019/[Slides,window="_blank"]
-  | icon:info-circle[] link:++https://cfp.devoxx.fr/2019/talk/YMY-8034/Le_seigneur_des_conteneurs_:_un_atelier_de_migration_vers_Kubernetes_et_Traefik.html++[Session Information,window="_blank"]
   | icon:code[] link:https://github.com/containous/slides/tree/devoxx-fr-2019[Source,window="_blank"]
 
 #### Voxxed Luxembourg 2019
@@ -360,8 +392,6 @@ Practical sessions around basic fault tolerance patterns.
 
 * image:fr.png[width=15] `Bird of Feather - Jenkins`
 
-* icon:info-circle[] link:https://cfp.devoxx.fr/2017/speaker/damien_duportal.html[Session Information,window="_blank"]
-
 #### Mix-IT Lyon 2017
 
 * image:fr.png[width=15] `Jenkins Declarative Pipeline`
@@ -424,7 +454,7 @@ https://www.meetup.com/fr-FR/SFEIR-Lille/events/262018005/[window="_blank"]
 `Tests de bout en bout en shell avec “bats”, pour CLI, containers et clusters`
 https://www.meetup.com/fr-FR/GDG-Lille/events/260272230/[window="_blank"]
 
-* image:fr.png[width=15] WaJUG `Jenkins & Blue Ocean Workshop` - Liège - 2018 - http://www.wajug.be/talk/2018/jenkins-blue-ocean-workshop[window="_blank"]
+* image:fr.png[width=15] WaJUG `Jenkins & Blue Ocean Workshop` - Liège - 2018
 
 * image:fr.png[width=15] Zenika’s NightClazz `Jenkins & Blue Ocean Workshop` - Lille - 2017 - https://www.meetup.com/fr-FR/NightClazz-Lille-by-Zenika/events/245281912/?eventId=245281912[window="_blank"]
 

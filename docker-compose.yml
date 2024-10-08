@@ -1,8 +1,6 @@
-version: '2.4'
-
 # Reusable options
 x-base: &cv-base
-  image: asciidoctor/docker-asciidoctor:1.2.0
+  image: asciidoctor/docker-asciidoctor:1.77.0
   user: ${CURRENT_UID}
   volumes:
     - ./src:/documents
@@ -30,7 +28,7 @@ services:
       -o /dist/cv-"${SHORT_OWNER_NAME}".pdf
 
   test:
-    image: klakegg/html-proofer:3.16.0
+    image: klakegg/html-proofer:3.19.2
     command: >
       --check-html
       --http-status-ignore "999"
